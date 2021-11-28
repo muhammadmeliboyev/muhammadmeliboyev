@@ -37,9 +37,12 @@ main{
   padding-bottom: 50px;
 }
 
+.raasm{
+  transition: .5s;
+}
+
 .raasm:hover{
   transform: scale(105%);
-  transition: .5s;
   cursor: pointer;
   box-shadow: 10px 10px 50px black;
 }
@@ -64,12 +67,12 @@ footer{
 
 .lgo:hover{
   transform: scale(105%);
-  transition: .5s;
   box-shadow: 10px 10px 50px black;
 }
 
 .lgo{
   border-radius: 50%;
+  transition: .5s;
 }
 
 .knopkaa{
@@ -88,9 +91,12 @@ footer{
   color: white;
 }
 
+.fa-arrow-circle-up{
+   transition: .5s;
+}
+
 .fa-arrow-circle-up:hover{
   transform: scale(130%);
-  transition: .5s;
 }
 
 .strelka:hover{
