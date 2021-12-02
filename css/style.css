@@ -39,6 +39,7 @@ main{
 
 .raasm{
   transition: .5s;
+  padding: 0;
 }
 
 .raasm:hover{
